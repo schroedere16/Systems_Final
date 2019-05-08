@@ -13,7 +13,7 @@ int seconds_count = 10;
 int ADC_count = 0;
 float k1 = 0, k2 = 0, k3 = 0, k4 = 0, k5 = 0, k6 = 0, k7 = 0, k8 = 0, k9 = 0, k10 = 0, y;
 
-//bi constants set for FIR filter
+//ai constants set for FIR filter
 const float a1 = 0.25;
 const float a2 = 0.20;
 const float a3 = 0.15;
