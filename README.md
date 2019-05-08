@@ -6,3 +6,15 @@ Along with all of the schematics this repo contains the main.c file used on the 
 
 Below is the link to the Google Drive which contains the video presenation required after the live demo.
 https://drive.google.com/drive/folders/1d_dyHo2xvN5ZDF6bW4vnfvhqism8w2Kn?usp=sharing
+
+
+# Bill of Materials
+* 1 MSP430F5529 Micro Controller
+* 1 10k Potentiometer
+* 1 1k Ohm resistor
+* 1 10 Ohm 10 Watt power resistors
+* 5v Regulator
+* 1 LM35DT PTAT
+* 1 IRL520 Power Transistor
+* 1 5V Fan
+* Power supply capable of 12V output
